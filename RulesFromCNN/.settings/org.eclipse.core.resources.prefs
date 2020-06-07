@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/CNN_Extract_Features.py=utf-8
+encoding//src/CNN_Pre_Train.py=utf-8
+encoding//src/Data_CSV.py=utf-8
+encoding//src/Data_CSV_Valid.py=utf-8
+encoding//src/Learn_Fuzzy_Rules_GA.py=utf-8
+encoding//src/Resume_Simplify_Rules.py=utf-8
+encoding//src/Select_Filters.py=utf-8
+encoding//src/Triangle.py=utf-8
+encoding//src/Valid_Rules.py=utf-8
+encoding//src/Write_Filters.py=utf-8
